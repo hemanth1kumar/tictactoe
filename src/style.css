@@ -1,0 +1,22 @@
+.square{
+	width: 30px;
+	height: 30px;
+	font-weight: bold;
+	border: 1px solid black;
+	font-family: Helvetica;
+	color: blue;
+	background: #fff;
+}
+
+.board-row {
+	text-align: center;
+}
+.board {
+	padding-left: auto;
+	padding-right: auto;
+	padding-top: 2%;
+	padding-bottom: auto;
+}
+.main {
+	height: 100%;
+}
